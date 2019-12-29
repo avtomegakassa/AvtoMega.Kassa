@@ -1,0 +1,1 @@
+# AvtoMega.Kassa
